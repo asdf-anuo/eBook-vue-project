@@ -1,7 +1,7 @@
 # eBook-vue-project
 
 # 简介
-This is my Vue project with MintUI for a ebook project.
+This is a Vue project with MintUI for a ebook.
 
 # 获取项目
 git clone https://github.com/asdf-anuo/eBook-vue-project.git
